@@ -175,3 +175,9 @@ Deploy those first, then fill in the contract IDs here.
 ## License
 
 Apache 2.0
+
+---
+
+## Organization
+
+**[github.com/foxchain-labs](https://github.com/foxchain-labs)**

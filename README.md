@@ -180,4 +180,4 @@ Apache 2.0
 
 ## Organization
 
-**[github.com/foxchain-labs](https://github.com/foxchain-labs)**
+**[github.com/stellarfox-labs](https://github.com/stellarfox-labs)**
